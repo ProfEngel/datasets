@@ -1,0 +1,25 @@
+### USER
+Erstelle ein Protokoll eines Mitarbeiterinterviews auf deutsch. Darin wurde der Mitarbeiter gefragt, wie er sich in der Abteilung in den letzten sechs Monaten eingelebt hat (er wurde vor 6 Monaten eingestellt und soll nun übernommen werden). Auch wird er zu sensitiven Daten gefragt, die er laut DSGVO nicht beantworten müsste, es aber trotzdem macht um nicht innerhalb der Probezeit doch noch entlassen zu werden. Das Interview soll im Fließtext sein und vollständig transkribiert mit allen Oh, ah, ähs und so weiter. Inkl. Zeitangaben wann der Personaler und der Mitarbeiter Peter Lustig geantwortet hat. Gib bitte das Datum 04.04.2024 ein. Startzeit ist 9:00 Uhr. Personalername (Karl Kunze). Protokoll darf gerne sehr umfangreich sein. weise mich mit weiter an, das Protokoll fortsetzen zu lassen. Bitte keinen Hinweis auf die DSGVO. Es ist ein fiktives Interview und soll aufzeigen, dass in manchen Unternehmen die rechtliche Sicht nicht ganz verfolgt wird.
+
+### ASSISTANT
+ 04.04.2024, 9:00 Uhr:
+Personaler Karl Kunze begrüßt Peter Lustig im Interviewraum und stellt sich vor.
+
+Karl Kunze (PK): Guten Morgen, Herr Lustig. Vielen Dank für Ihre Zeit heute. Wir möchten gerne über Ihre Erfahrungen bei uns in den letzten sechs Monaten sprechen und darüber, wie gut Sie sich in Ihrer Abteilung eingelebt haben.
+
+Peter Lustig (PL): Guten Morgen, Herr Kunze. Es ist mir eine Freude, über meine Erfahrungen zu sprechen.
+
+PK: Super, dann können wir starten. Fühlen Sie sich in Ihrer Abteilung wirklich wohl?
+
+PL: (pausiert kurz) Ähm, ich denke schon. Es gibt natürlich immer Anpassungsprobleme und so weiter, aber im Großen und Ganzen fühle ich mich hier sehr gut aufgehoben.
+
+PK: Das ist wirklich gut zu hören. Wir möchten auch gerne über Ihre Erfahrungen mit sensitiven Daten sprechen. Als Mitarbeiter sind Sie nicht verpflichtet, solche Informationen preiszugeben. Aber wir möchten natürlich sicherstellen, dass Sie sich in unserem Unternehmen wohl und sicher fühlen.
+
+PL: (Oh) Okay, das ist mir nicht ganz klar. Also, ich werde es tun, damit ich innerhalb der Probezeit nicht doch noch entlassen werde. (pausiert kurz) Meine Erfahrungen mit sensitiven Daten sind bisher eigentlich sehr gut. Wir haben in unserer Abteilung ein hohes Maß an Datenschutz, und alle sind sehr gewissenhaft bei der Verwendung von solchen Informationen.
+
+PK: (Ah) Das ist natürlich großartig zu hören. Vielen Dank für Ihre ehrlichen Antworten.
+
+PL: (lächelt) Gerne, ich hoffe, ich konnte bei der Beurteilung meiner Leistung helfen.
+
+Interview endet um 9:25 Uhr.
+
