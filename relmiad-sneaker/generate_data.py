@@ -25,7 +25,7 @@ def build(base,folder=None,emit_js=True):
     files=[('bestellungen_train_roh.csv',raw),('bestellungen_train_sauber.csv',train),('bestellungen_validierung.csv',valid),('bestellungen_test.csv',test),('bestellungen_neu.csv',future),('absatz_wochen.csv',sales),('absatz_zukunft.csv',future_sales),('rezensionen.csv',[dict(ID=i+1,Text=t) for i,t in enumerate(reviews)]),('bi_bestellungen_historisch.csv',bi),('produkt.csv',[dict(SKU='RO-LE-01',Produkt='Relmiad ONE',Edition='Limited Edition',Farbe='weiss',Listenpreis_netto_EUR=129)])]
     for name,rows in files:
         with (folder/name).open('w',newline='') as f:
-            w=csv.DictWriter(f,fieldnames=list(rows[0]));w.writeheader();w.writerows(rows)
+            w=csv.DictWriter(f,fieldnames=list(rows[0]),lineterminator='\n');w.writeheader();w.writerows(rows)
     data=dict(train=train,valid=valid,test=test,future=future,sales=sales,reviews=reviews)
     if emit_js:(base/'assets/js/sneaker-data.js').write_text('window.SneakerData='+json.dumps(data,ensure_ascii=False)+';')
     (folder/'DATENPASS.md').write_text('''# Relmiad ONE – fiktive Lehrdaten

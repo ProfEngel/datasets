@@ -14,7 +14,7 @@
         "Rabatt_Prozent",
         "Retoure"
       ],
-      "sha256": "d768ba6b776f720faaaf1a077db88627bfcfe378e6c0cc6ddd154a4649ea6a34",
+      "sha256": "8da69da27e4fcdd163b21c375710591e86d8e48b49a0a55e7fc876a62ee9202f",
       "url": "https://raw.githubusercontent.com/ProfEngel/datasets/main/relmiad-sneaker/bestellungen_train_roh.csv"
     },
     {
@@ -26,7 +26,7 @@
         "Rabatt_Prozent",
         "Retoure"
       ],
-      "sha256": "8f4022a808580e6126a1b4ac2b94c1761c7cc344ad929cb57e19e54d6aa21da7",
+      "sha256": "2100e17f212de55d937eb761b4f6416d3bf255b321cf0721dc47a4b8556f5104",
       "url": "https://raw.githubusercontent.com/ProfEngel/datasets/main/relmiad-sneaker/bestellungen_train_sauber.csv"
     },
     {
@@ -38,7 +38,7 @@
         "Rabatt_Prozent",
         "Retoure"
       ],
-      "sha256": "d9e64161bb0d5b908ae747449e29cf6bed670708192580fe3da95e8528d12b98",
+      "sha256": "80354fd6524b944af7999572ad53e085a7e43eb40dd46d8972ea881cc2021b11",
       "url": "https://raw.githubusercontent.com/ProfEngel/datasets/main/relmiad-sneaker/bestellungen_validierung.csv"
     },
     {
@@ -50,7 +50,7 @@
         "Rabatt_Prozent",
         "Retoure"
       ],
-      "sha256": "20fc861708f4146a60e48f435c75f0529dcadbaf58a6ed77cc92a3feeabc55d1",
+      "sha256": "5f9b37cc670be99a99461de1b4a0179c2091b2a4862c1ef2810492419f19cdae",
       "url": "https://raw.githubusercontent.com/ProfEngel/datasets/main/relmiad-sneaker/bestellungen_test.csv"
     },
     {
@@ -61,7 +61,7 @@
         "Passformabweichung_cm",
         "Rabatt_Prozent"
       ],
-      "sha256": "492eb528e16decdeb34e2e44b79a81317e46e1d0f9eb319f72c94bf02b000ee4",
+      "sha256": "b917d0b1cf4de43d5d34ce6d0c3f6848618356185d73f4f644d0c276935855fe",
       "url": "https://raw.githubusercontent.com/ProfEngel/datasets/main/relmiad-sneaker/bestellungen_neu.csv"
     },
     {
@@ -72,7 +72,7 @@
         "Werbebudget_100EUR",
         "Absatz_Paare"
       ],
-      "sha256": "27eb93f260e9f17562f36667ae0966fb5df45bb0414f5c67e47dfa09d77501ae",
+      "sha256": "aad3902fda2dc7d9662fe8861ca45357448a5c9eef84916d15577ce80d3ebdc6",
       "url": "https://raw.githubusercontent.com/ProfEngel/datasets/main/relmiad-sneaker/absatz_wochen.csv"
     },
     {
@@ -82,7 +82,7 @@
         "Woche",
         "Werbebudget_100EUR"
       ],
-      "sha256": "693e274982177f586b48fa081c1e8b2ff01bd6751d917caa6729987c774c19a7",
+      "sha256": "8d45e2f288b982b3053acc58506af0529077e1d6f25940bda1a150c315b68124",
       "url": "https://raw.githubusercontent.com/ProfEngel/datasets/main/relmiad-sneaker/absatz_zukunft.csv"
     },
     {
@@ -92,7 +92,7 @@
         "ID",
         "Text"
       ],
-      "sha256": "fd0418a53e424f1ba96f46d484a94b3305d7b17c128ba3caa67001f7e6af98ab",
+      "sha256": "ac512b7b572ba87f88bf9548647cfb5d775d7deddb4d85580e3595e1cebc3595",
       "url": "https://raw.githubusercontent.com/ProfEngel/datasets/main/relmiad-sneaker/rezensionen.csv"
     },
     {
@@ -112,7 +112,7 @@
         "Umsatz_netto_vor_Retoure_EUR",
         "Umsatz_netto_nach_Retoure_EUR"
       ],
-      "sha256": "c41ffc6584ed4ddcca6ff44819f9d8c7d462624746d8ea53369c4f8960db60cd",
+      "sha256": "7d9bf35338a631308028d803fec864780827dbb23c5703181d794900912d7b38",
       "url": "https://raw.githubusercontent.com/ProfEngel/datasets/main/relmiad-sneaker/bi_bestellungen_historisch.csv"
     },
     {
@@ -125,7 +125,7 @@
         "Farbe",
         "Listenpreis_netto_EUR"
       ],
-      "sha256": "ee983ed6ef13b48de0d42e5873b3ae4266a6a8fa1791c365833e50abf31a34d0",
+      "sha256": "316ad3186895610b524506f0ba17956198da72857641b58c496d451cfc227bd4",
       "url": "https://raw.githubusercontent.com/ProfEngel/datasets/main/relmiad-sneaker/produkt.csv"
     }
   ],
