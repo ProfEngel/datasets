@@ -1,0 +1,133 @@
+{
+  "version": "1.0.0",
+  "created": "2026-11-16",
+  "fictional": true,
+  "personalData": false,
+  "repository": "https://github.com/ProfEngel/datasets/tree/main/relmiad-sneaker",
+  "files": [
+    {
+      "file": "bestellungen_train_roh.csv",
+      "rows": 102,
+      "columns": [
+        "ID",
+        "Passformabweichung_cm",
+        "Rabatt_Prozent",
+        "Retoure"
+      ],
+      "sha256": "d768ba6b776f720faaaf1a077db88627bfcfe378e6c0cc6ddd154a4649ea6a34",
+      "url": "https://raw.githubusercontent.com/ProfEngel/datasets/main/relmiad-sneaker/bestellungen_train_roh.csv"
+    },
+    {
+      "file": "bestellungen_train_sauber.csv",
+      "rows": 100,
+      "columns": [
+        "ID",
+        "Passformabweichung_cm",
+        "Rabatt_Prozent",
+        "Retoure"
+      ],
+      "sha256": "8f4022a808580e6126a1b4ac2b94c1761c7cc344ad929cb57e19e54d6aa21da7",
+      "url": "https://raw.githubusercontent.com/ProfEngel/datasets/main/relmiad-sneaker/bestellungen_train_sauber.csv"
+    },
+    {
+      "file": "bestellungen_validierung.csv",
+      "rows": 40,
+      "columns": [
+        "ID",
+        "Passformabweichung_cm",
+        "Rabatt_Prozent",
+        "Retoure"
+      ],
+      "sha256": "d9e64161bb0d5b908ae747449e29cf6bed670708192580fe3da95e8528d12b98",
+      "url": "https://raw.githubusercontent.com/ProfEngel/datasets/main/relmiad-sneaker/bestellungen_validierung.csv"
+    },
+    {
+      "file": "bestellungen_test.csv",
+      "rows": 40,
+      "columns": [
+        "ID",
+        "Passformabweichung_cm",
+        "Rabatt_Prozent",
+        "Retoure"
+      ],
+      "sha256": "20fc861708f4146a60e48f435c75f0529dcadbaf58a6ed77cc92a3feeabc55d1",
+      "url": "https://raw.githubusercontent.com/ProfEngel/datasets/main/relmiad-sneaker/bestellungen_test.csv"
+    },
+    {
+      "file": "bestellungen_neu.csv",
+      "rows": 12,
+      "columns": [
+        "ID",
+        "Passformabweichung_cm",
+        "Rabatt_Prozent"
+      ],
+      "sha256": "492eb528e16decdeb34e2e44b79a81317e46e1d0f9eb319f72c94bf02b000ee4",
+      "url": "https://raw.githubusercontent.com/ProfEngel/datasets/main/relmiad-sneaker/bestellungen_neu.csv"
+    },
+    {
+      "file": "absatz_wochen.csv",
+      "rows": 12,
+      "columns": [
+        "Woche",
+        "Werbebudget_100EUR",
+        "Absatz_Paare"
+      ],
+      "sha256": "27eb93f260e9f17562f36667ae0966fb5df45bb0414f5c67e47dfa09d77501ae",
+      "url": "https://raw.githubusercontent.com/ProfEngel/datasets/main/relmiad-sneaker/absatz_wochen.csv"
+    },
+    {
+      "file": "absatz_zukunft.csv",
+      "rows": 4,
+      "columns": [
+        "Woche",
+        "Werbebudget_100EUR"
+      ],
+      "sha256": "693e274982177f586b48fa081c1e8b2ff01bd6751d917caa6729987c774c19a7",
+      "url": "https://raw.githubusercontent.com/ProfEngel/datasets/main/relmiad-sneaker/absatz_zukunft.csv"
+    },
+    {
+      "file": "rezensionen.csv",
+      "rows": 12,
+      "columns": [
+        "ID",
+        "Text"
+      ],
+      "sha256": "fd0418a53e424f1ba96f46d484a94b3305d7b17c128ba3caa67001f7e6af98ab",
+      "url": "https://raw.githubusercontent.com/ProfEngel/datasets/main/relmiad-sneaker/rezensionen.csv"
+    },
+    {
+      "file": "bi_bestellungen_historisch.csv",
+      "rows": 300,
+      "columns": [
+        "Bestell_ID",
+        "Datum",
+        "SKU",
+        "Kanal",
+        "Region",
+        "Groesse_EU",
+        "Menge_Paare",
+        "Listenpreis_netto_EUR",
+        "Rabatt_Prozent",
+        "Retoure",
+        "Umsatz_netto_vor_Retoure_EUR",
+        "Umsatz_netto_nach_Retoure_EUR"
+      ],
+      "sha256": "c41ffc6584ed4ddcca6ff44819f9d8c7d462624746d8ea53369c4f8960db60cd",
+      "url": "https://raw.githubusercontent.com/ProfEngel/datasets/main/relmiad-sneaker/bi_bestellungen_historisch.csv"
+    },
+    {
+      "file": "produkt.csv",
+      "rows": 1,
+      "columns": [
+        "SKU",
+        "Produkt",
+        "Edition",
+        "Farbe",
+        "Listenpreis_netto_EUR"
+      ],
+      "sha256": "ee983ed6ef13b48de0d42e5873b3ae4266a6a8fa1791c365833e50abf31a34d0",
+      "url": "https://raw.githubusercontent.com/ProfEngel/datasets/main/relmiad-sneaker/produkt.csv"
+    }
+  ],
+  "license": "See repository root LICENSE; no independent license change."
+}
